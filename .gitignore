@@ -1,0 +1,8 @@
+.env
+*.log
+__pycache__/
+*.pyc
+test_conexion.py
+
+# Archivos de datos / reportes generados
+*.xlsx
